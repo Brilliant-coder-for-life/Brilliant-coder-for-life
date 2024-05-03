@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brilliant-coder-for-life
 - 👀 I’m interested in all things coding(Html,Javascrpit,CSS and Python)
 - 🌱 I’m currently learning Html,Javascrpit and CSS with coursera
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just chat me i will answer you
 - ⚡ Fun fact: Did you know that the term "bug" to describe a flaw in a program originated from an incident involving a moth? In 1947, Grace Hopper, a computer scientist,
 - found a moth stuck in a relay of the Harvard Mark II computer, causing a malfunction. She removed the moth and taped it into the computer's logbook with the notation
